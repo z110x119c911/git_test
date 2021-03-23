@@ -11,7 +11,7 @@
 				</div>
 				<div class="col" id="main">
 					<h1>Main Area</h1>
-					<p>now it's the new branch name of test-user1</p>
+					<p>now it's the new branch name of test-user2</p>
 
 				</div>
 			</div>
