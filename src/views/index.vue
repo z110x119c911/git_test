@@ -11,7 +11,7 @@
 				</div>
 				<div class="col" id="main">
 					<h1>Main Area</h1>
-					
+					<p>git user1 commit test</p>
 
 				</div>
 			</div>
